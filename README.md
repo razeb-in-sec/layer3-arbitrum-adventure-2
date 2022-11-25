@@ -7,7 +7,11 @@
 sl_sec_beg = 15
 sl_sec_end = 40
 
+Канал 
 ```
-Канал :  https://t.me/web3_python
-Чат	  :  https://t.me/chat_web3_python
+https://t.me/web3_python
+```
+Чат
+```
+https://t.me/chat_web3_python
 ```
